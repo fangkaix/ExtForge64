@@ -13,8 +13,8 @@ ExtForge64/
 ├── aarch64
 │ └── make_ext4fs
 ├── generate_image.sh
-└── x86_64
-└── make_ext4fs
+├── x86_64
+  └── make_ext4fs
 ```
 ## 使用方法
 
